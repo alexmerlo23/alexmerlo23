@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @alexmerlo23
 - 👀 I’m interested in building aesthetic websites
-- 🌱 I’m currently learning how to build and style websites using HTML and CSS
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-alexmerlo23/alexmerlo23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m currently learning how to build full-stack websites using React and various databases
+- 💞️ I’m looking to collaborate on any MERN project, but I am open to learning other frameworks and stacks.
+- 📫 How to reach me:
+     • alexmerlo23@gmail.com
+     • (561) 752-6111
